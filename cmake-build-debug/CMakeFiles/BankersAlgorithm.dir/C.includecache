@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Leili/CLionProjects/BankersAlgorithm/main.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+pthread.h
+-
+semaphore.h
+-
+sys/unistd.h
+-
+
